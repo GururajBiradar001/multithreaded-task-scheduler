@@ -1,0 +1,7 @@
+out/
+target/
+.idea/
+*.iml
+tasks.dat
+tasks.dat.tmp
+tasks.dat.corrupt
